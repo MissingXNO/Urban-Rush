@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/y2mate.com - Jet Grind Radio Soundtrack  Miller Ball Breakers (1).ogg-8208b08cdc3371ae4877c7a029144ee4.oggstr"
+
+[deps]
+
+source_file="res://y2mate.com - Jet Grind Radio Soundtrack  Miller Ball Breakers (1).ogg"
+dest_files=[ "res://.import/y2mate.com - Jet Grind Radio Soundtrack  Miller Ball Breakers (1).ogg-8208b08cdc3371ae4877c7a029144ee4.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/dj sfx.ogg-d6e69476ea165b195f7f95b60db1ac60.oggstr"
+
+[deps]
+
+source_file="res://dj sfx.ogg"
+dest_files=[ "res://.import/dj sfx.ogg-d6e69476ea165b195f7f95b60db1ac60.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
